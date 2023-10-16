@@ -15,3 +15,6 @@ This game is inspired by gartic.io (https://gartic.io) but this game is a differ
 Mouse Left Click --> Chooses one of the geometric shapes in the geometric palette.    
 Tab --> Sends the message that the player wrote.      
 Note: If you want to delete the geometric shape that you accidentally drew, select the geometric shape at the bottom right of the geometric palette.    
+
+Game Video          
+https://youtu.be/V5jbchLjThc
